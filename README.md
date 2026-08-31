@@ -1,256 +1,327 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    ADITYA // AI DEVELOPER                     -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 👋 Hey, I'm Aditya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f172a,100:06b6d4&height=220&section=header&text=ADITYA&fontSize=70&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20ML%20ENTHUSIAST&descAlignY=60&descSize=16&descColor=a5f3fc" width="100%"/>
 
-### 🚀 Full Stack Developer | AI & ML Enthusiast | Problem Solver
+<br>
 
-<p>
-  <a href="https://github.com/adityan271">
-    <img src="https://komarev.com/ghpvc/?username=adityan271&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/adityan271?tab=followers">
-    <img src="https://img.shields.io/github/followers/adityan271?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/adityan271?tab=repositories">
-    <img src="https://img.shields.io/github/stars/adityan271?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=700&lines=Initializing+Aditya.exe...;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+ideas+into+real+applications;Learning+Backend+%26+System+Design;Always+curious.+Always+building." alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/adityan271">
-    <img src="https://img.shields.io/badge/GitHub-adityan271-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:adityanath271@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/aditya_gosavi._">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<br><br>
+
+<a href="https://github.com/adityan271">
+<img src="https://img.shields.io/badge/GITHUB-adityan271-020617?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=0f172a" />
+</a>
+
+<a href="mailto:adityanath271@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0f172a" />
+</a>
+
+<a href="https://instagram.com/aditya_gosavi._">
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-020617?style=for-the-badge&logo=instagram&logoColor=f472b6&labelColor=0f172a" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=adityan271&label=SYSTEM%20VISITORS&color=06b6d4&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```javascript
-const aditya = {
-    name: "Aditya",
-    username: "adityan271",
-    role: "Full Stack Developer",
-    location: "India",
-    focus: ["Web Development", "Backend", "AI/ML"],
-    currentlyLearning: ["Backend Development", "Advanced JavaScript"],
-    currentProject: "Adi-music",
-    goal: "Build impactful software and become a better engineer every day",
-    mindset: "Learn → Build → Break → Fix → Repeat 🚀"
-};
+# `> whoami`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ADITYA // DEVELOPER                                       │
+│   ─────────────────────────────────────────────────────────   │
+│                                                             │
+│   ▸ Role        : Full Stack Developer                     │
+│   ▸ Focus       : AI / ML + Web Development                 │
+│   ▸ Learning    : Backend Engineering                       │
+│   ▸ Environment : JavaScript • React • Node • MongoDB       │
+│   ▸ Mission     : Build → Learn → Improve → Repeat          │
+│                                                             │
+│   "The best way to predict the future is to build it."      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-* 🔭 Currently working on **[Adi-music](https://adi-music.netlify.app/)**
-* 🌱 Currently learning **Backend Development**
-* 🤖 Interested in **AI, Machine Learning & Full Stack Development**
-* 💡 I enjoy turning ideas into real-world applications
-* ⚡ Fun fact: **I am AI/Tech focused**
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 `AI_CORE // PROFILE`
 
-### 🎵 Adi-music
+<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-A music-focused web application built to explore modern frontend development and user experience.
+### Hello, I'm Aditya 👋
 
-**Tech:** React • JavaScript • Tailwind CSS
+I'm a developer who loves **building things from scratch**, experimenting with technology and turning ideas into usable applications.
 
-🔗 **[Live Demo](https://adi-music.netlify.app/)**
+My current interests sit at the intersection of:
+
+```text
+          ┌───────────────────────┐
+          │      ARTIFICIAL       │
+          │    INTELLIGENCE 🤖    │
+          └───────────┬───────────┘
+                      │
+          ┌───────────▼───────────┐
+          │     FULL STACK        │
+          │     DEVELOPMENT      │
+          └───────────┬───────────┘
+                      │
+          ┌───────────▼───────────┐
+          │       BACKEND         │
+          │     ENGINEERING      │
+          └───────────────────────┘
+```
+
+### ⚡ Current Mission
+
+* 🔭 Building **Adi-music**
+* 🌱 Deepening my **Backend Development** skills
+* 🤖 Exploring **AI & Machine Learning**
+* 🧩 Improving my problem-solving and engineering skills
+* 🚀 Turning ideas into real-world projects
+
+<br clear="right"/>
 
 ---
 
-### 🛒 E-Commerce Application
-
-A modern shopping application with product browsing, authentication, state management and responsive UI.
-
-**Tech:** React • JavaScript • Tailwind CSS • Redux
-
----
-
-### 🐄 GooShala
-
-A donation-focused application designed to support cow welfare initiatives.
-
-**Tech:** React • Firebase • Razorpay
-
----
-
-> 💻 More projects are being built.
-> Check out my repositories to see what I'm working on.
+# ⚙️ `TECH_STACK // LOADED`
 
 <div align="center">
 
-**[🔎 Explore My Repositories →](https://github.com/adityan271?tab=repositories)**
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=c,java,javascript,python,kotlin&theme=dark" />
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+
+### `BACKEND + DATABASE`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
+### `TOOLS + CLOUD`
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,android,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
-</p>
-
-### 🌐 Frontend
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
-</p>
-
-### 🔧 Tools & Cloud
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50" alt="Android"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
+# 🚀 `PROJECTS // FEATURED`
 
 <div align="center">
 
-<a href="https://github.com/adityan271">
+<a href="https://adi-music.netlify.app/">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityan271&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityan271&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityan271&repo=Adi-music&theme=tokyonight&hide_border=true" />
 
 </a>
 
 </div>
 
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=adityan271&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Streak" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/adityan271">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityan271&theme=tokyo-night&hide_border=true&area=true" alt="Aditya's Contribution Graph" />
-
-</a>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityan271&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
-
-</a>
-
-</div>
-
----
-
-# 📌 GitHub Activity
-
-<div align="center">
+<br>
 
 <table>
 <tr>
-<td align="center">
 
-### 📦 Repositories
+<td width="50%">
 
-<img src="https://img.shields.io/github/repos/adityan271?style=for-the-badge&logo=github&label=Total%20Repos" />
+### 🎵 Adi-music
+
+> A music-focused web application built while exploring modern frontend development.
+
+**Stack**
+
+`React` `JavaScript` `Tailwind CSS`
+
+**Status**
+
+🟢 `ACTIVE DEVELOPMENT`
+
+<a href="https://adi-music.netlify.app/">→ LIVE PROJECT</a>
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-### ⭐ Stars
+### 🐄 GooShala
 
-<img src="https://img.shields.io/github/stars/adityan271?style=for-the-badge&logo=github&label=Stars%20Received" />
+> A donation-focused application created to support cow welfare initiatives.
+
+**Stack**
+
+`React` `Firebase` `Razorpay`
+
+**Status**
+
+🔵 `PROJECT`
 
 </td>
 
-<td align="center">
+</tr>
 
-### 👥 Followers
+<tr>
 
-<img src="https://img.shields.io/github/followers/adityan271?style=for-the-badge&logo=github&label=Followers" />
+<td width="50%">
+
+### 🛒 E-Commerce
+
+> A modern shopping application focused on responsive UI and application state management.
+
+**Stack**
+
+`React` `JavaScript` `Redux`
+
+**Status**
+
+🟣 `BUILDING`
+
+</td>
+
+<td width="50%">
+
+### 🧪 More Experiments
+
+> New ideas, experiments and applications are constantly being added.
+
+**Next**
+
+`AI` `Backend` `APIs` `System Design`
+
+**Status**
+
+🟡 `IN PROGRESS`
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 💻 Coding Activity
+# 📊 `GITHUB // SYSTEM ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityan271&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=Aditya's%20GitHub%20Statistics" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityan271&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&icon_color=67e8f9&custom_title=ADITYA'S%20GITHUB%20CORE" height="190"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityan271&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&custom_title=LANGUAGE%20MATRIX" height="190"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🔥 `CONTRIBUTION // STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=adityan271&theme=tokyonight&hide_border=true&background=050816&ring=22d3ee&fire=06b6d4&currStreakLabel=67e8f9" />
+
+</div>
+
+---
+
+# 📈 `CONTRIBUTION // ACTIVITY GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityan271&bg_color=050816&color=67e8f9&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🏆 `ACHIEVEMENTS // UNLOCKED`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityan271&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+
+</div>
+
+---
+
+# 📦 `GITHUB // REPOSITORY MATRIX`
+
+<div align="center">
+
+<img src="https://img.shields.io/github/repos/adityan271?style=for-the-badge&logo=github&label=REPOSITORIES&labelColor=050816&color=0891b2" />
+
+<img src="https://img.shields.io/github/stars/adityan271?style=for-the-badge&logo=github&label=STARS&labelColor=050816&color=0e7490" />
+
+<img src="https://img.shields.io/github/followers/adityan271?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=050816&color=155e75" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityan271&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&icon_color=67e8f9" />
+
+</div>
+
+---
+
+# 🧬 `DEVELOPER // PHILOSOPHY`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       CODE  ──►  BUILD  ──►  BREAK  ──►  FIX        ║
+║                    │                                 ║
+║                    ▼                                 ║
+║                  LEARN                               ║
+║                    │                                 ║
+║                    ▼                                 ║
+║                 REPEAT ♾️                             ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+### `01` — Build things that solve problems
+
+### `02` — Learn something new every day
+
+### `03` — Write code that you can be proud of
+
+### `04` — Never stop experimenting
+
+</div>
+
+---
+
+# 🌐 `CONNECT // NETWORK`
 
 <div align="center">
 
 <a href="https://github.com/adityan271">
-<img src="https://img.shields.io/badge/GitHub-adityan271-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-ADITYAN271-020617?style=for-the-badge&logo=github&logoColor=22d3ee" />
 </a>
 
 <a href="mailto:adityanath271@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-adityanath271%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=f87171" />
 </a>
 
 <a href="https://instagram.com/aditya_gosavi._">
-<img src="https://img.shields.io/badge/Instagram-aditya__gosavi.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-ADITYA-020617?style=for-the-badge&logo=instagram&logoColor=f472b6" />
 </a>
 
 </div>
@@ -259,20 +330,18 @@ A donation-focused application designed to support cow welfare initiatives.
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### `SYSTEM STATUS`
 
-**Let's build something amazing together 🚀**
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-020617?style=for-the-badge&labelColor=0f172a&color=06b6d4" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=100&section=footer" />
+<br><br>
+
+**Thanks for visiting my profile.**
+
+`if (idea) { build(idea); }`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:050816&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!--
-GitHub README widgets used in this profile:
-- github-readme-stats
-- github-readme-streak-stats
-- github-readme-activity-graph
-- github-profile-trophy
-- shields.io
-- capsule-render
--->
