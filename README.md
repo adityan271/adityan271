@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```javascript
 const aditya = {
@@ -35,19 +35,85 @@ const aditya = {
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,javascript,python,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode&theme=dark"/>
+### 💻 Languages
+
+<a href="https://www.open-std.org/jtc1/sc22/wg14/">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
+</a>
+
+<a href="https://www.java.com/">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
+</a>
+
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</a>
+
+### 🎨 Frontend
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+</a>
+
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+</a>
+
+<a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+</a>
+
+### ⚙️ Backend
+
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+</a>
+
+<a href="https://expressjs.com/">
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" />
+</a>
+
+### 🗄️ Database
+
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+</a>
+
+### 🛠️ Tools
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎵 Adi Music
+<div align="center">
+
+## 🎵 Adi Music
 
 A modern music-focused web application built with **React, JavaScript and Tailwind CSS**.
 
@@ -55,16 +121,28 @@ A modern music-focused web application built with **React, JavaScript and Tailwi
   <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-06b6d4?style=for-the-badge&logo=musicbrainz&logoColor=white"/>
 </a>
 
-<br><br>
+</div>
+
+<br>
 
 | 🐄 GooShala                                   | 🛒 E-Commerce                |
 | --------------------------------------------- | ---------------------------- |
 | Donation platform for cow welfare initiatives | Modern shopping application  |
 | `React` `Firebase` `Razorpay`                 | `React` `Redux` `JavaScript` |
 
+<div align="center">
+
+<br>
+
+<a href="https://github.com/adityan271?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
+</a>
+
+</div>
+
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -80,7 +158,7 @@ A modern music-focused web application built with **React, JavaScript and Tailwi
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
