@@ -4,18 +4,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+ideas+into+real+applications+%F0%9F%9A%80" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/adityan271">
-<img src="https://img.shields.io/badge/GitHub-adityan271-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/GitHub-adityan271-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
 </a>
 
 <a href="mailto:adityanath271@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-020617?style=for-the-badge&logo=gmail&logoColor=f87171"/>
+  <img src="https://img.shields.io/badge/Email-Contact-020617?style=for-the-badge&logo=gmail&logoColor=f87171"/>
 </a>
 
 <a href="https://instagram.com/aditya_gosavi._">
-<img src="https://img.shields.io/badge/Instagram-Follow-020617?style=for-the-badge&logo=instagram&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-020617?style=for-the-badge&logo=instagram&logoColor=f472b6"/>
 </a>
 
 </div>
@@ -52,7 +52,7 @@ const aditya = {
 A modern music-focused web application built with **React, JavaScript and Tailwind CSS**.
 
 <a href="https://adi-music.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-06b6d4?style=for-the-badge&logo=musicbrainz&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-06b6d4?style=for-the-badge&logo=musicbrainz&logoColor=white"/>
 </a>
 
 <br><br>
@@ -64,7 +64,7 @@ A modern music-focused web application built with **React, JavaScript and Tailwi
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -74,17 +74,17 @@ A modern music-focused web application built with **React, JavaScript and Tailwi
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityan271&bg_color=020617&color=67e8f9&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=adityan271&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=06b6d4&currStreakLabel=67e8f9&sideLabels=94a3b8&dates=64748b" width="70%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
