@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=ADITYA&fontSize=75&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20ML%20ENTHUSIAST&descAlignY=60&descSize=16&descColor=a5f3fc" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+ideas+into+real+applications+%F0%9F%9A%80" />
 
 <br><br>
