@@ -1,155 +1,153 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+ideas+into+real+applications+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=ADITYA%20GOSAVI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20•%20AI%20ENTHUSIAST%20•%20BUILDER&descAlignY=70&descSize=14"/>
 
-<br>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+cool+things+with+code+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96"/>
+
+<br/><br/>
 
 <a href="https://github.com/adityan271">
-  <img src="https://img.shields.io/badge/GitHub-adityan271-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/GITHUB-ADITYAN271-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:adityanath271@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-020617?style=for-the-badge&logo=gmail&logoColor=f87171"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/aditya_gosavi._">
-  <img src="https://img.shields.io/badge/Instagram-Follow-020617?style=for-the-badge&logo=instagram&logoColor=f472b6"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧠 WHO AM I?
 
-```javascript
-const aditya = {
+```js id="rmf6k2"
+const developer = {
+  name: "Aditya Gosavi",
   role: "Full Stack Developer",
-  interests: ["Web Development", "AI", "Machine Learning"],
-  currentlyLearning: "Backend Development",
-  motto: "Learn. Build. Improve. Repeat. 🚀"
+
+  currently: "Building projects & learning Backend 🚀",
+
+  stack: [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+
+  interests: ["AI", "Machine Learning", "Web Development"],
+
+  mission: "Turn ideas into products."
 };
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ TECH ARSENAL
 
 <div align="center">
 
-### 💻 Languages
-
-<a href="https://www.open-std.org/jtc1/sc22/wg14/">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
-</a>
-<a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
-</a>
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</a>
-
-### 🎨 Development
-
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
-</a>
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" />
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-</a>
-
-### 🛠️ Tools
-
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-</a>
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,python,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Project
+# 🌟 FEATURED PROJECT
 
 <div align="center">
 
-# 🎵 ADI MUSIC
+<img src="https://img.shields.io/badge/★%20MY%20MAIN%20PROJECT-22D3EE?style=for-the-badge&labelColor=020617"/>
 
-### A modern music platform built with a clean UI and immersive experience.
+# 🎧 ADI MUSIC
 
-<br>
+### **Your Music. Your Vibe. Your World.**
 
-`React`   `JavaScript`   `Tailwind CSS`
+A modern music web application focused on a **beautiful UI, smooth experience, and music discovery**.
 
-<br>
+<br/>
+
+<p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+</p>
+
+<br/>
 
 <a href="https://adi-music.netlify.app/">
-  <img src="https://img.shields.io/badge/▶%20EXPLORE%20ADI%20MUSIC-06b6d4?style=for-the-badge&logo=spotify&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/▶%20LIVE%20DEMO-06B6D4?style=for-the-badge&logo=spotify&logoColor=white"/>
+
 </a>
+
+ 
 
 <a href="https://github.com/adityan271">
-  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
+
+<img src="https://img.shields.io/badge/CODE-020617?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+<br/><br/>
+
+> 🎵 **Currently my flagship project — constantly improving and adding new features.**
 
 </div>
 
-<br>
+---
 
-### ✨ Other Projects
+# 🧪 OTHER BUILDS
 
-| 🐄 GooShala                   | 🛒 E-Commerce                |
-| ----------------------------- | ---------------------------- |
-| Cow welfare donation platform | Modern shopping application  |
+<div align="center">
+
+|        🐄 **GooShala**        |     🛒 **E-Commerce App**    |
+| :---------------------------: | :--------------------------: |
+| Cow welfare donation platform |  Modern shopping experience  |
 | `React` `Firebase` `Razorpay` | `React` `Redux` `JavaScript` |
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/adityan271?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
+
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+
 </a>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityan271&show_icons=true&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&icon_color=67e8f9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityan271&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=22D3EE" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityan271&layout=compact&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityan271&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" width="42%"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=adityan271&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=06b6d4&currStreakLabel=67e8f9&sideLabels=94a3b8&dates=64748b" width="70%" />
+<img src="https://streak-stats.demolab.com?user=adityan271&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" width="65%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 WATCH THE CODE GROW
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -157,12 +155,12 @@ const aditya = {
 
 <div align="center">
 
-### 💡 *"Turning ideas into code and code into reality."*
+### ⚡ BUILD • LEARN • IMPROVE • REPEAT
 
-<img src="https://komarev.com/ghpvc/?username=adityan271&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=adityan271&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:06B6D4,100:22D3EE&height=110&section=footer"/>
 
 </div>
